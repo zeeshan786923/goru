@@ -1,0 +1,13 @@
+
+:root {
+    --bg-color:#080808;
+    --second-bg-color:  #e46464;
+    --text-color:  rgb(255, 255, 255);
+    --main-color: hsla(184, 100%, 50%, 0.466);
+}
+ img:hover{
+    transform: scale(1.05);
+} 
+.logo:hover{
+    transform: scale(1.05);
+}
